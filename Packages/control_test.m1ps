@@ -1,0 +1,5 @@
+sub  r1, r0, r0
+brz  3
+addi r2, r0, 0x1
+addi r2, r0, 0x2
+j 0

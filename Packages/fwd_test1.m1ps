@@ -1,0 +1,6 @@
+addi r5, r0, 0x30
+addi r6, r0, 0x3
+addi r2, r0, 0x33
+and  r12, r2, r5
+or	 r13, r6, r2
+add  r14, r2, r2

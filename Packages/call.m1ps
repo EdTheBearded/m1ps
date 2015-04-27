@@ -1,0 +1,5 @@
+addi r1, r0, 30
+jal 4
+addi r1, r0, 1
+addi r1, r0, 1
+add r2, r0, r31
